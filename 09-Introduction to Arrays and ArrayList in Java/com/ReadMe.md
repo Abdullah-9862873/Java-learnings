@@ -18,5 +18,15 @@
 **Question 16** *[Find Numbers with Even Number of Digits](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/FindEvenNumberOfDigits.java)* <br />
 **Question 17** *[Transpose Matrix](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/TransposeMatrix.java)* <br />
 **Question 18** *[Add to Array-Form of Integer](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/AddToArrayFormOfInteger.java)* <br />
+**Question 19** *[Maximum Population Year](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/MaximumPopulationYear.java)* <br />
+**Question 20** *[Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/MatrixObtainedByRotation.java)* <br />
+**Question 21** *[Two Sum](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/TwoSum.java)* <br />
+**Question 22** *[Find N Unique Integers Sum up to Zero](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/NUniqueIntegersSumUptoZero.java)* <br />
+**Question 23** *[Lucky Number In a Matrix](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/LuckyNumberInAMatrix.java)* <br />
+**Question 24** *[Maximum Subarray](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/MaximumSubarray.java)* <br />
+**Question 25** *[Reshape the Matrix](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/ReshapeTheMatrix.java)* <br />
+**Question 26** *[Plus One](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/PlusOne.java)* <br />
+**Question 27** *[Remove Duplicates from Sorted Array](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/RemoveDuplicatesFromSortedArray.java)* <br />
+**Question 28** *[Minimum Cost to Move Chips to The Same Position](https://github.com/Abdullah-9862873/Java-learnings/blob/main/09-Introduction%20to%20Arrays%20and%20ArrayList%20in%20Java/com/assignments/MinimumCostToMoveChipsToSamePosition.java)* <br />
 
 

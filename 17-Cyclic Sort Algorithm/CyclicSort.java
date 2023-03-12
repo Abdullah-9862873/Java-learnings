@@ -31,7 +31,7 @@ public class CyclicSort {
 }
 
 /*
- * When given the range from 1 to N then use --> Cyclic Sort
+ * When there is range given like [1,n] or there is a requirement to sort in O(n) time complexity and constant space complexity like O(1) then use Cyclic sort
  * When the range is given from 1 to N then one thing to notice is -------->
  * Index = value - 1
  * 

@@ -1,3 +1,4 @@
+## When there is range given like [1,n] or there is a requirement to sort in O(n) time complexity and constant space complexity like O(1) then use Cyclic sort
 ## Leetcode Questions
 
 **Question 1** *[Missing Number](https://leetcode.com/submissions/detail/914035748/)* <br />

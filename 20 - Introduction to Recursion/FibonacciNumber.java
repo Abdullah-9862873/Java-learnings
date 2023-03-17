@@ -15,5 +15,8 @@ public class FibonacciNumber {
         }
         return fib(n - 1) + fib(n - 2);
     }
-
 }
+
+/*
+The time complexity of it is ((sqrt(5)+1)/2)^n
+*/

@@ -16,3 +16,4 @@
 **Question 13** *[Sort Integers by The Number of 1 Bits](https://leetcode.com/submissions/detail/921430245/)* <br />
 **Question 14** *[XOR Operation in an Array](https://leetcode.com/submissions/detail/921458048/)* <br />
 **Question 15** *[Count the Number of Consistent Strings](https://leetcode.com/submissions/detail/921476247/)* <br />
+**Question 16** *[Decode XORed Array](https://leetcode.com/submissions/detail/921483569/)* <br />

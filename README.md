@@ -1,2 +1,1 @@
-# Java-DSA-Bootcamp 
-hello there 
+# Java-DSA-Bootcamp

@@ -1,4 +1,5 @@
 package SinglyLinkedList;
+
 public class LL{
     private Node head;
     private Node tail;
@@ -62,6 +63,22 @@ public class LL{
 
         size +=1;
         return;
+    }
+
+    public void insertUsingRecursion(int val, int index){
+        insertUsingRecursion(val, index-1, head);
+    }
+
+    public Node insertUsingRecursion(int val, int index, Node currNode){
+        if(index == 0){
+            Node temp = new Node(val);
+            temp.next = currNode.next;
+            currNode.next = temp;
+            return currNode;
+        }
+
+        currNode.next = insertUsingRecursion(val, index-1, currNode.next);
+        return currNode;
     }
 
     // Delete

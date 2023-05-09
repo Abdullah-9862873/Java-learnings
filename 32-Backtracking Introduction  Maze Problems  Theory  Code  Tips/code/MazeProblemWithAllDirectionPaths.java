@@ -89,6 +89,6 @@ ______________________________________________________________________________
 Thought process of backtracking is to simply
 ---> Make a change, in this case I have marked the paths visited by that function call only, to false
 ---> After the work is done, In this case when I have gotten the answer in my processed
----> Revert the change, In this case I have again maked it true as if I don't then it will stay false, and will prevent the further paths to go to same block so while returing I have to revert it
+---> Revert the change, In this case I have again made it true as if I don't then it will stay false, and will prevent the further paths to go to same block so while returing I have to revert it
 ______________________________________________________________________________
  */

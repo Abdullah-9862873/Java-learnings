@@ -4,7 +4,7 @@
 \
 ---> Flow of Programs ---> 5 (Done)\      
 ---> First Java ---------> 9 (Done)\     
----> Conditional Loops----> 26 + 26 ---------------> 52 (Done)\   
+---> Conditional Loops----> 26 + 26 ---------------> 52 (Done)\    
 ---> Functions -----------> 14 (Done)\
 ---> Arrays---------------> 28 + 10 + 3 ---------------> 41 (Done)\ 
 ---> Searching -----------> 17 + 17 + 8 ---------------> 42 (3 Done)\ 

@@ -20,6 +20,18 @@
 ---> Stacks and Queues ---> 12 + 16 + 6 ---------------> 34
 
 \
-Total ------------------------------------------------> 567 
+Total ------------------------------------------------> 567 <br>
+
+**Missing Topics** <br>
+---> Dynamic Programming <br>
+---> Graph <br>
+---> BFS <br>
+---> DFS <br>
+---> Greedy <br>
+---> Trees <br>
+---> Tries <br>
+---> Design <br>
+---> Hash Table <br>
+---> Heap <br>
 
 
